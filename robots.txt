@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yechan.github.io/sitemap.xml
+Sitemap: https://yechan99.github.io/sitemap.xml
