@@ -34,7 +34,7 @@
             include figure.liquid
             loading="eager"
             path=entry_path
-            sizes = "200px"
+            sizes = "650px"
             class="preview z-depth-1 rounded"
             zoomable=true
             alt=entry.preview
@@ -169,6 +169,10 @@
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
+
+    {% if entry.annotation %}
+      <div class="annotation">{{ entry.annotation }}</div>
+    {% endif %}
 
     <!-- Links/Buttons -->
     <div class="links">
