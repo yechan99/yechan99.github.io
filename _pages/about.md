@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello, I am a M.S./Ph.D. integrated student in the <a href="https://mip.postech.ac.kr">Medical Information Processing (MIP) lab</a> at <a href="https://postech.ac.kr/eng/">POSTECH</a> under the supervision of Professor <a href="https://wwplato.github.io"> Won Hwa Kim</a>.
+Hello, I am a M.S./Ph.D. integrated student in the <a href="https://mip.postech.ac.kr">Medical Information Processing (MIP) lab</a> at Pohang University of Science and Technology (POSTECH) under the supervision of Professor <a href="https://wwplato.github.io"> Won Hwa Kim</a>.
 
 My research interests include graph machine learning, medical imaging, and computer vision. Recently, I have been particularly interested in employing machine learning methods to diagnose and understand diseases.
 
